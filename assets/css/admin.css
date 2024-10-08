@@ -1,0 +1,35 @@
+/* Instructions box styling */
+.instructions-box {
+    background: #f9f9f9;
+    padding: 20px;
+    border-left: 4px solid #0073aa;
+    margin-bottom: 20px;
+}
+
+.instructions-box h2 {
+    margin-top: 0;
+    font-size: 20px;
+    color: #0073aa;
+}
+
+.instructions-box p, 
+.instructions-box ol {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.instructions-box ol {
+    padding-left: 20px;
+}
+
+.instructions-box a {
+    color: #0073aa;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Marker icon preview */
+#marker-icon-preview img {
+    max-width: 100px;
+    margin-top: 10px;
+}
